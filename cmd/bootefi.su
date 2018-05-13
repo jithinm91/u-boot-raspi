@@ -1,0 +1,6 @@
+bootefi.c:95:14:efi_do_enter	48	static
+bootefi.c:29:13:efi_init_obj_list	16	static
+bootefi.c:109:22:efi_run_in_el2	48	static
+bootefi.c:124:22:do_bootefi_exec	1104	static
+bootefi.c:276:12:do_bootefi	64	static
+bootefi.c:383:6:efi_set_bootdev	96	static
